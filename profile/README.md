@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NovaChat-Enterprise-ERP/.github/main/profile/assets/logo.png" alt="NovaChat logo" width="88" />
-</p>
-
-<h1 align="center">NovaChat</h1>
 
 <p align="center">
   <strong>Chat, share files and meet with your team in one place.</strong><br />
